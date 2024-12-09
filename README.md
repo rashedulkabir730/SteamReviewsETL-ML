@@ -11,7 +11,7 @@ To develop a machine learning model that predicts whether a review has a weighte
 - `1`: Weighted score ≤ 0.4
 - `0`: Weighted score > 0.4
 
-#### Methodology
+#### Process
 1. **Data Pipeline and ETL:**
    - Data extracted and processed using PySpark on Google Cloud Platform.
    - Non-English reviews and irrelevant columns filtered out.
