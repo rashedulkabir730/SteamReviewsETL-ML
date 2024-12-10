@@ -38,6 +38,6 @@ To develop a machine learning model that predicts whether a review has a weighte
 - Potential improvements include refining features further and experimenting with advanced models.
 
 #### Conclusion
-This project demonstrated a complete pipeline for large-scale data processing and machine learning model building. The model provides a framework for identifying reviews that may not benefit prospective game buyers, such as nonsensical or irrelevant content, ensuring meaningful and helpful reviews are highlighted.
+This project demonstrated a complete pipeline for large-scale data processing and machine learning model building. The model provides a framework for identifying reviews that may not benefit prospective game buyers, such as blakc reviews or  irrelevant content, ensuring meaningful and helpful reviews are highlighted.
 
 
